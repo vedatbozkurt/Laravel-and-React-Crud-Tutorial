@@ -1,2 +1,5 @@
 # Laravel and React Crud Tutorial
- Laravel and React Book Management  Application
+
+ Laravel(Backend) and React(Frontend) Book Management Application includes crud operations.
+
+
